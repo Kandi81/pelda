@@ -1,2 +1,1 @@
-# pelda
-Ez gyakorlás
+Szoftverfejlesztési projekt 2025
